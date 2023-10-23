@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Jung A Lim and I am Earth and Environmental Engineering master's student.
 
 <!--
 **JUNGA-LIM/JUNGA-LIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
